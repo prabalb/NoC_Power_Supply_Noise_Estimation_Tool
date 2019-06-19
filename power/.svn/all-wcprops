@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/cgi-bin/svn.cgi/!svn/ver/5519/booksim2.0/branches/classes/src/power
+END
+buffer_monitor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/cgi-bin/svn.cgi/!svn/ver/5188/booksim2.0/branches/classes/src/power/buffer_monitor.cpp
+END
+techfile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/cgi-bin/svn.cgi/!svn/ver/5519/booksim2.0/branches/classes/src/power/techfile.txt
+END
+power_module.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/cgi-bin/svn.cgi/!svn/ver/5188/booksim2.0/branches/classes/src/power/power_module.cpp
+END
+buffer_monitor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/cgi-bin/svn.cgi/!svn/ver/5188/booksim2.0/branches/classes/src/power/buffer_monitor.hpp
+END
+power_module.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/cgi-bin/svn.cgi/!svn/ver/5188/booksim2.0/branches/classes/src/power/power_module.hpp
+END
+switch_monitor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/cgi-bin/svn.cgi/!svn/ver/5188/booksim2.0/branches/classes/src/power/switch_monitor.cpp
+END
+switch_monitor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/cgi-bin/svn.cgi/!svn/ver/5188/booksim2.0/branches/classes/src/power/switch_monitor.hpp
+END

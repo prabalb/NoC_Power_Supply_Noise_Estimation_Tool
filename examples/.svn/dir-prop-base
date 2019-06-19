@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 29
+._*
+.Apple*
+.DS_Store
+*~
+#*#
+
+END
