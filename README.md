@@ -1,4 +1,4 @@
-# rectilinear_polygon
+# NoC Power Supply Noise Estimation Tool
 
 This is a NoC power supply noise estimation tool integrated with the Booksim 2.0
 NoC architectural simulator. The tool can dump average as well as cycle-wise
